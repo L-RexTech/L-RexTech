@@ -14,28 +14,46 @@
 
 ---
 
-## 🦕 About Me
+## 🦕 About
 
-```typescript
-const prajjwal = {
-    name: "Prajjwal Singh",
-    handle: "L-RexTech",
-    location: "Meerut, India 🇮🇳",
-    role: "Software Engineer",
-    specialties: ["Android Development", "Cloud Computing", "AI-powered Apps"],
-    
-    
-    interests: ["Swimming 🏊‍♂️", "AI & Cloud Exploration 🚀"],
-    
-    currentGoals: [
-        "Deepening AWS + Azure cloud expertise",
-        "Advancing Android AI app development",
-        "Building scalable cloud solutions"
-    ],
-    
-    Mindset: "I believe in expensive, simpler solutions over complex, cheaper ones—because in the end, simplicity pays off.🎯"
-};
+<div align="center">
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&duration=1000&pause=1000&color=00F7FF&center=true&vCenter=true&width=200&height=100&lines=LT" alt="LT Logo" />
+
+</div>
+
+```console
+Hello, World! I am Prajjwal Singh – a Software Engineer passionate about creating 
+high-performance, user-centric Android applications and cloud solutions with 
+intuitive and scalable architectures.
+
+With experience in Android development, I specialize in building high-quality 
+mobile applications using Kotlin, Java, XML, and modern Android technologies. 
+Beyond mobile development, I love exploring cloud technologies and turning ideas 
+into reality through innovative projects.
+
+One of my key achievements was co-founding Aalambh, launched as CTO in 2023, 
+where I led technical strategy, trained team members, and deployed event 
+management solutions, reaching 200+ active club members and organizing 15+ 
+successful technical events.
+
+I'm also certified in AWS Cloud Practitioner and Azure AZ-500 Security, 
+demonstrating my commitment to cloud computing excellence. My projects have 
+earned recognition in college competitions and I've mentored 50+ junior 
+developers in mobile and cloud technologies.
+
+Currently expanding my expertise in AI-powered Android apps and serverless 
+architecture while swimming competitively and exploring the latest in cloud 
+computing innovations.
+
+Let's connect and build something amazing together! 🚀
 ```
+
+<div align="center">
+  <img src="https://img.shields.io/badge/💡-Always_Learning-00F7FF?style=for-the-badge" alt="Always Learning" />
+  <img src="https://img.shields.io/badge/🎯-Problem_Solver-00F7FF?style=for-the-badge" alt="Problem Solver" />
+  <img src="https://img.shields.io/badge/🦖-T--Rex_Energy-00F7FF?style=for-the-badge" alt="T-Rex Energy" />
+</div>
 
 ---
 

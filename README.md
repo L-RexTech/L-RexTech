@@ -80,11 +80,9 @@ const prajjwal = {
 
 ---
 
-## 🐍 Watch the Snake Devour My "HIRE ME" Contributions!
 
 <div align="center">
   
-**🦖 The snake is eating through my 2024 "HIRE ME" pattern made with 966+ commits! 🔥**
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/L-RexTech/L-RexTech/output/github-contribution-grid-snake-dark.svg">
@@ -92,7 +90,7 @@ const prajjwal = {
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/L-RexTech/L-RexTech/output/github-contribution-grid-snake.svg">
   </picture>
   
-  <p><em>🎯 Snake devouring my GitHub contribution graph including the epic "HIRE ME" spelled in commits!</em></p>
+  
 </div>
 
 ---

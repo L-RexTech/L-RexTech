@@ -16,12 +16,6 @@
 
 ## 🦕 About
 
-<div align="center">
-  
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&duration=1000&pause=1000&color=00F7FF&center=true&vCenter=true&width=200&height=100&lines=LT" alt="LT Logo" />
-
-</div>
-
 ```console
 Hello, World! I am Prajjwal Singh – a Software Engineer passionate about creating 
 high-performance, user-centric Android applications and cloud solutions with 
@@ -50,9 +44,15 @@ Let's connect and build something amazing together! 🚀
 ```
 
 <div align="center">
-  <img src="https://img.shields.io/badge/💡-Always_Learning-00F7FF?style=for-the-badge" alt="Always Learning" />
-  <img src="https://img.shields.io/badge/🎯-Problem_Solver-00F7FF?style=for-the-badge" alt="Problem Solver" />
-  <img src="https://img.shields.io/badge/🦖-T--Rex_Energy-00F7FF?style=for-the-badge" alt="T-Rex Energy" />
+  
+<img src="https://raw.githubusercontent.com/L-RexTech/L-RexTech/main/lt_pixel_logo.svg" alt="LT Pixel Logo" />
+
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/💡-Always_Learning-39d353?style=for-the-badge&labelColor=0d1117" alt="Always Learning" />
+  <img src="https://img.shields.io/badge/🎯-Problem_Solver-39d353?style=for-the-badge&labelColor=0d1117" alt="Problem Solver" />
+  <img src="https://img.shields.io/badge/🦖-T--Rex_Energy-39d353?style=for-the-badge&labelColor=0d1117" alt="T-Rex Energy" />
 </div>
 
 ---

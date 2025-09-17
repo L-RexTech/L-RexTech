@@ -14,7 +14,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/L-RexTech/L-RexTech/main/lt_bitmap_icon.svg" alt="LT" width="40" height="20" /> About
+## <img src="https://raw.githubusercontent.com/L-RexTech/L-RexTech/main/lt_logo.jpg" alt="LT" width="40" height="20" /> About
 
 ```console
 Hello, World! I'm Prajjwal Singh – a Software Engineer building 
@@ -86,9 +86,9 @@ Details matter, it's worth waiting to get it right. -Steve Jobs
   
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/L-RexTech/L-RexTech/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/L-RexTech/L-RexTech/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/L-RexTech/L-RexTech/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/L-RexTech/L-RexTech/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/L-RexTech/L-RexTech/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/L-RexTech/L-RexTech/output/dist/github-contribution-grid-snake.svg">
   </picture>
   
   

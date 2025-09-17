@@ -80,14 +80,19 @@ const prajjwal = {
 
 ---
 
-## 🐍 Watch the Snake Devour My Contributions!
+## 🐍 Watch the Snake Devour My "HIRE ME" Contributions!
 
 <div align="center">
+  
+**🦖 The snake is eating through my 2024 "HIRE ME" pattern made with 966+ commits! 🔥**
+  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/L-RexTech/L-RexTech/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/L-RexTech/L-RexTech/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/L-RexTech/L-RexTech/output/github-contribution-grid-snake.svg">
   </picture>
+  
+  <p><em>🎯 Snake devouring my GitHub contribution graph including the epic "HIRE ME" spelled in commits!</em></p>
 </div>
 
 ---
@@ -134,10 +139,10 @@ mindmap
 **🚀 Open to opportunities in Software Engineering, Cloud Computing & Android Development**
 
 <p>
-  <a href="mailto:prajjwal.jee2018@example.com">
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/prajjwal-s0/">
+  <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/L-RexTech">

@@ -17,30 +17,19 @@
 ## 🦕 About
 
 ```console
-Hello, World! I am Prajjwal Singh – a Software Engineer passionate about creating 
-high-performance, user-centric Android applications and cloud solutions with 
-intuitive and scalable architectures.
+Hello, World! I'm Prajjwal Singh – a Software Engineer building 
+Android applications and cloud solutions with scalable architectures.
 
-With experience in Android development, I specialize in building high-quality 
-mobile applications using Kotlin, Java, XML, and modern Android technologies. 
-Beyond mobile development, I love exploring cloud technologies and turning ideas 
-into reality through innovative projects.
+Key highlights:
+- Co-founded Aalambh as CTO (2023) – led technical strategy, trained team members,
+  deployed event management solutions
+- AWS Cloud Practitioner & Azure AZ-500 Security certified
+- Participated in college competitions with recognized projects
 
-One of my key achievements was co-founding Aalambh, launched as CTO in 2023, 
-where I led technical strategy, trained team members, and deployed event 
-management solutions, reaching 200+ active club members and organizing 15+ 
-successful technical events.
+Currently expanding into AI-powered Android apps and serverless architecture 
+while swimming for leisure while exploring the latest in cloud computing innovations.
 
-I'm also certified in AWS Cloud Practitioner and Azure AZ-500 Security, 
-demonstrating my commitment to cloud computing excellence. My projects have 
-earned recognition in college competitions and I've mentored 50+ junior 
-developers in mobile and cloud technologies.
-
-Currently expanding my expertise in AI-powered Android apps and serverless 
-architecture while swimming competitively and exploring the latest in cloud 
-computing innovations.
-
-Let's connect and build something amazing together! 🚀
+Details matter, it's worth waiting to get it right. -Steve Jobs
 ```
 
 <div align="center">

@@ -1,0 +1,29 @@
+<svg width="60" height="30" viewBox="0 0 60 30" xmlns="http://www.w3.org/2000/svg">
+  <!-- L letter - bitmap style -->
+  <g fill="#00f7ff">
+    <!-- L vertical bars -->
+    <rect x="2" y="2" width="4" height="26"/>
+    <rect x="6" y="2" width="4" height="26"/>
+    <!-- L horizontal bars -->
+    <rect x="10" y="24" width="4" height="4"/>
+    <rect x="14" y="24" width="4" height="4"/>
+    <rect x="18" y="24" width="4" height="4"/>
+  </g>
+  
+  <!-- T letter - bitmap style -->
+  <g fill="#00f7ff">
+    <!-- T horizontal top bars -->
+    <rect x="32" y="2" width="4" height="4"/>
+    <rect x="36" y="2" width="4" height="4"/>
+    <rect x="40" y="2" width="4" height="4"/>
+    <rect x="44" y="2" width="4" height="4"/>
+    <rect x="48" y="2" width="4" height="4"/>
+    <!-- T vertical bars -->
+    <rect x="40" y="6" width="4" height="4"/>
+    <rect x="40" y="10" width="4" height="4"/>
+    <rect x="40" y="14" width="4" height="4"/>
+    <rect x="40" y="18" width="4" height="4"/>
+    <rect x="40" y="22" width="4" height="4"/>
+    <rect x="40" y="26" width="4" height="4"/>
+  </g>
+</svg>

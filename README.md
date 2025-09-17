@@ -14,7 +14,7 @@
 
 ---
 
-## 🦕 About
+## <img src="https://raw.githubusercontent.com/L-RexTech/L-RexTech/main/lt_bitmap_icon.svg" alt="LT" width="40" height="20" /> About
 
 ```console
 Hello, World! I'm Prajjwal Singh – a Software Engineer building 
@@ -31,12 +31,6 @@ while swimming for leisure while exploring the latest in cloud computing innovat
 
 Details matter, it's worth waiting to get it right. -Steve Jobs
 ```
-
-<div align="center">
-  
-<img src="https://raw.githubusercontent.com/L-RexTech/L-RexTech/main/lt_pixel_logo.svg" alt="LT Pixel Logo" />
-
-</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/💡-Always_Learning-39d353?style=for-the-badge&labelColor=0d1117" alt="Always Learning" />

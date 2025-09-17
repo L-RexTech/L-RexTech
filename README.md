@@ -14,7 +14,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/L-RexTech/L-RexTech/main/lt_logo.jpg" alt="LT" width="40" height="20" /> About
+## About
 
 ```console
 Hello, World! I'm Prajjwal Singh – a Software Engineer building 
